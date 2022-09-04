@@ -1,0 +1,30 @@
+.w {
+  margin: 0 auto;
+}
+.box {
+  background-color: #333;
+  width: 100px;
+  padding: 10px;
+  border-radius: 10px;
+}
+.box div {
+  margin-bottom: 10px;
+}
+.box div:last-child {
+  margin-bottom: 0px;
+}
+.traffic {
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
+  background: #747070;
+}
+.light-red {
+  background: #FF0000;
+}
+.light-yellow {
+  background: #FFFF00;
+}
+.light-green {
+  background: #00FF00;
+}
